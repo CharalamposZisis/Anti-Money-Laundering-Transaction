@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+mlartifatcs/
+mlartifacts
+
+src/mlruns
+
+src/mlflow.db
+.metals/
+.scala-build/
+
+.vscode/
+
+mlflow.db
 # Distribution / packaging
 .Python
 build/
@@ -217,3 +229,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 SAML-D.csv
+.bsp/scala-cli.json
+.scala-build/.bloop/Anti-Money-Laundering-Transaction_b214b2a93f/Anti-Money-Laundering-Transaction_b214b2a93f-analysis.bin
+src/training_pipeline.sc
+src/.bsp/scala.json
+cs
